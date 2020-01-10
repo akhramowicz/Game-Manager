@@ -9,6 +9,6 @@
 
 1.2 [Диаграммы](https://github.com/akhramowicz/Game-Manager/tree/master/Diagrams)  
 
-2 [Код]
+2 [Код](https://github.com/akhramowicz/Game-Manager/tree/master/ProjectSolution)
 
 3 [Тестирование](https://github.com/akhramowicz/Game-Manager/tree/master/Test)
