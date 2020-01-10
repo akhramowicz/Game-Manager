@@ -1,6 +1,7 @@
 # Game-Manager
 
 ##### It is a Windows application for the dungeon masters, storytellers and other game masters.
+##### Lang: C#
 
 # Содержание
 
