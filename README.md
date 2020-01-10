@@ -3,12 +3,12 @@
 ##### It is a Windows application for the dungeon masters, storytellers and other game masters.
 
 # Содержание
-1 [Документация](Documentation)  
 
-1.1 [Требования](https://github.com/akhramowicz/Game-Manager/tree/master/Documents/Требования.md)
 
-1.2 [Диаграммы](https://github.com/akhramowicz/Game-Manager/tree/master/Diagrams)  
+1 [Требования](https://github.com/akhramowicz/Game-Manager/tree/master/Documents/Требования.md)
 
-2 [Код](https://github.com/akhramowicz/Game-Manager/tree/master/ProjectSolution)
+2 [Диаграммы](https://github.com/akhramowicz/Game-Manager/tree/master/Diagrams)  
 
-3 [Тестирование](https://github.com/akhramowicz/Game-Manager/tree/master/Test)
+3 [Код](https://github.com/akhramowicz/Game-Manager/tree/master/ProjectSolution)
+
+4 [Тестирование](https://github.com/akhramowicz/Game-Manager/tree/master/Test)
